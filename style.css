@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(200, 44, 140);
+    
+}
+h1{
+    color: white;
+}
+@media (min-width:640px) {
+    body{
+        background-color: skyblue;
+    }
+    h1{
+        color: black;
+    }
+
+    
+}
